@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @tammillion
-- 👀 I’m interested in art & games.
-- 🌱 I’m currently learning art & game design.
-- 📫 How to reach me: tammilion21@gmail.com
+
 
 <!---
 tammillion/tammillion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
