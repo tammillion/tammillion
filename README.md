@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tammillion
 - 👀 I’m interested in art & games.
 - 🌱 I’m currently learning art & game design.
-- 💞️ I’m looking to collaborate on games.
 - 📫 How to reach me: tammilion21@gmail.com
 
 <!---
